@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Abha Bhardwaj
-- 👀 I’m currently pursuing my Btech from IGDTUW,Indira Gandhi Delhi Technical University for Women.
+- 👀 I’m currently pursuing my Btech from (IGDTUW)Indira Gandhi Delhi Technical University for Women,Delhi
 - 🌱 I’m currently learning DSA in C++,Web Development,AR/VR
 
 <!---
