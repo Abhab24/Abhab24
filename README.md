@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Abha Bhardwaj
-- 👀 I’m currently pursuing my Btech from (IGDTUW)Indira Gandhi Delhi Technical University for Women,Delhi
-- 🌱 I’m currently learning DSA in C++,Web Development,AR/VR
+- 👀 I’m currently pursuing my Btech from (IGDTUW)Indira Gandhi Delhi Technical University for Women,Delhi,India
+- 🌱 I’m currently learning DSA in C++,HTML,CSS,Tailwind CSS,Javascript and React 
 
 <!---
 Abhab24/Abhab24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
